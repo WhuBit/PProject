@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.douban.com	TRUE	/	FALSE	1528863601	bid	6iJsPc3xdOU
+.douban.com	TRUE	/	FALSE		ck	RQPN
+.douban.com	TRUE	/	FALSE		dbcl2	"153251919:9XJ4GHwUug4"
+.douban.com	TRUE	/	FALSE	1528863600	ue	"774534486@qq.com"
